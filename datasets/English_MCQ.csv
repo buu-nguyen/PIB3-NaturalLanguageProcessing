@@ -1,0 +1,501 @@
+,Phrase,Question,Lemma,Answer,D1,D2,D3,F_Answer,F_D1,F_D2,F_D3
+0,The beauty of the landscape struck the travellers.,The beauty of the landscape ... the travellers.,strike,struck,strikes,striking,striked,past tense,3rd person singular present,present participle,past tense
+1,Nobody knows the truth about this affair.,Nobody ... the truth about this affair.,know,knows,knowed,knowing,knows,3rd person singular present,past tense,present participle,3rd person singular present
+2,"In a dictatorship, freedom of expression is limited.","In a dictatorship, freedom of expression ....",limit,is limited,limits,limited,limiting,past participle,3rd person singular present,past tense,present participle
+3,He did not help you out of kindness.,He did not ... you out of kindness.,help,help,helps,help,helping,infinitive,3rd person singular present,infinitive,present participle
+4,His wickedness had no limits.,His wickedness ... no limits.,have,had,have,haves,haved,past tense,infinitive,3rd person singular present,past participle
+5,His elegance impressed the assembly.,His elegance ... the assembly.,impress,impressed,impresses,impress,impressed,past tense,3rd person singular present,infinitive,past participle
+6,There is a big difference between the western and the asiatic culture.,There ... a big difference between the western and the asiatic culture.,be,is,bing,bes,bed,3rd person singular present,present participle,3rd person singular present,past participle
+7,He has high ideals.,He ... high ideals.,have,has,haved,have,haved,3rd person singular present,past participle,infinitive,past tense
+8,He was struck by the modernity of the underground.,He ... by the modernity of the underground.,strike,was struck,striked,strike,striked,past participle,past tense,infinitive,past participle
+9,The quality of his work was acknowledged by the jury.,The quality of his work ... by the jury.,acknowledge,was acknowledged,acknowledge,acknowledges,acknowledged,past participle,infinitive,3rd person singular present,past participle
+10,A significant amount of oil has spilt in the sea.,A significant amount of oil has ... in the sea.,spill,spilt,spilled,spilled,spilling,past participle,past participle,past tense,present participle
+11,He has been impressed by the cleanliness of his flat.,He ... by the cleanliness of his flat.,impress,has been impressed,impressed,impress,impressing,past participle,past participle,infinitive,present participle
+12,His mother makes very tasty pies.,His mother ... very tasty pies.,make,makes,make,makes,maked,3rd person singular present,infinitive,3rd person singular present,past tense
+13,Everything he said was true.,Everything he ... was true.,say,said,saying,says,sayed,past tense,present participle,3rd person singular present,past participle
+14,We did not go to the beach because the weather was bad.,We did not ... to the beach because the weather was bad.,go,go,going,go,gos,infinitive,present participle,infinitive,3rd person singular present
+15,He gave the wrong answer.,He ... the wrong answer.,give,gave,giving,gives,give,past tense,present participle,3rd person singular present,infinitive
+16,It is a fast car but it is hard to drive.,It is a fast car but it is hard to ....,drive,drive,drives,drive,drived,infinitive,3rd person singular present,infinitive,past participle
+17,"The cat is too high, I cannot reach it.","The cat is too high, I cannot ... it.",reach,reach,reached,reached,reaching,infinitive,past tense,past participle,present participle
+18,He always dresses in black.,He always ... in black.,dress,dresses,dressed,dresses,dress,3rd person singular present,past tense,3rd person singular present,infinitive
+19,I do not have any white shirt left.,I do not ... any white shirt left.,have,have,haved,having,have,infinitive,past tense,present participle,infinitive
+20,I do not have any white shirt left.,I do not have any white shirt ....,leave,left,leaved,leaved,leaving,past participle,past participle,past tense,present participle
+21,He is wearing a blue shirt.,He is ... a blue shirt.,wear,wearing,wear,wearing,weared,present participle,infinitive,present participle,past tense
+22,I have a green car.,I ... a green car.,have,have,haves,having,have,non-3rd person singular present,3rd person singular present,present participle,infinitive
+23,The milk had turned yellow.,The milk had ... yellow.,turn,turned,turns,turned,turn,past participle,3rd person singular present,past tense,infinitive
+24,What is this purple flower called?,What is this purple flower ...?,call,called,calls,calling,called,past participle,3rd person singular present,present participle,past participle
+25,He is kind only when he needs you.,He is kind only when he ... you.,need,needs,need,needed,needed,3rd person singular present,infinitive,past tense,past participle
+26,He travelled a lot when he was young.,He ... a lot when he was young.,travel,travelled,traveling,traveled,travel,past tense,present participle,past tense,infinitive
+27,I am too old to travel.,I am too old to ....,travel,travel,traveled,travel,travels,infinitive,past tense,infinitive,3rd person singular present
+28,I lost myself in the narrow alleys of the old city.,I ... myself in the narrow alleys of the old city.,lose,lost,losing,losed,lose,past tense,present participle,past tense,infinitive
+29,"The trip was too long, I am exhausted.","The trip was too long, I ....",exhaust,am exhausted,exhausts,exhausted,exhausted,past participle,3rd person singular present,past participle,past tense
+30,"My stay here has been too short, I have to come back.","My stay here has been too short, I ... to come back.",have,have,having,have,haves,non-3rd person singular present,present participle,infinitive,3rd person singular present
+31,"My stay here has been too short, I have to come back.","My stay here has been too short, I have to ... back.",come,come,comed,coming,comes,infinitive,past tense,present participle,3rd person singular present
+32,She is very beautiful but she does not realize it.,She is very beautiful but she does not ... it.,realize,realize,realizes,realizing,realize,infinitive,3rd person singular present,present participle,infinitive
+33,She bought a pretty dress.,She ... a pretty dress.,buy,bought,buys,buy,buyed,past tense,3rd person singular present,infinitive,past participle
+34,This swiss knife is very useful when you travel.,This swiss knife is very useful when you ....,travel,travel,travels,traveled,traveled,non-3rd person singular present,3rd person singular present,past tense,past participle
+35,He has a complex personnality which is what makes him charming.,He ... a complex personnality which is what makes him charming.,have,has,haved,haves,having,3rd person singular present,past participle,3rd person singular present,present participle
+36,He has a complex personnality which is what makes him charming.,He has a complex personnality which is what ... him charming.,make,makes,make,maked,maked,3rd person singular present,infinitive,past tense,past participle
+37,The hamster has been behaving strangely these last few days.,The hamster has been ... strangely these last few days.,behave,behaving,behaved,behaved,behave,present participle,past participle,past tense,infinitive
+38,"The solution was obvious, it really jumped out at you.","The solution was obvious, it really ... out at you.",jump,jumped,jumping,jumps,jumped,past tense,present participle,3rd person singular present,past participle
+39,He is amusing but he does not realise it.,He is amusing but he does not ... it.,realise,realise,realised,realising,realised,infinitive,past tense,present participle,past participle
+40,It's funny I cannot remember him.,It's funny I cannot ... him.,remember,remember,remember,remembering,remembers,infinitive,infinitive,present participle,3rd person singular present
+41,"He is an excellent pupil, but he does not want to study.","He is an excellent pupil, but he does not ... to study.",want,want,wanted,wanted,wants,infinitive,past tense,past participle,3rd person singular present
+42,"He is an excellent pupil, but he does not want to study.","He is an excellent pupil, but he does not want to ....",study,study,studying,studied,study,infinitive,present participle,past tense,infinitive
+43,This teacher is mediocre but we have no choice.,This teacher is mediocre but we ... no choice.,have,have,haved,have,haves,non-3rd person singular present,past tense,infinitive,3rd person singular present
+44,The offices of the company are located in an old building.,The offices of the company ... in an old building.,locate,are located,locates,locate,located,past participle,3rd person singular present,infinitive,past participle
+45,This man looks crazy.,This man ... crazy.,look,looks,look,looking,looked,3rd person singular present,infinitive,present participle,past participle
+46,He was wearing a beige pair of trousers and a white shirt.,He was ... a beige pair of trousers and a white shirt.,wear,wearing,wears,weared,wear,present participle,3rd person singular present,past participle,infinitive
+47,He has brown eyes.,He ... brown eyes.,have,has,haves,haved,haved,3rd person singular present,3rd person singular present,past tense,past participle
+48,The houses of this village had orange doors.,The houses of this village ... orange doors.,have,had,haves,haved,have,past tense,3rd person singular present,past participle,infinitive
+49,He wears very coloured clothes.,He ... very coloured clothes.,wear,wears,wear,weared,wears,3rd person singular present,infinitive,past tense,3rd person singular present
+50,"Night is falling, the street is dark.","Night is ..., the street is dark.",fall,falling,falling,falls,fall,present participle,present participle,3rd person singular present,infinitive
+51,It is impossible to work in these conditions.,It is impossible to ... in these conditions.,work,work,works,worked,work,infinitive,3rd person singular present,past participle,infinitive
+52,He had a fair skin despite his holidays at the beach.,He ... a fair skin despite his holidays at the beach.,have,had,haved,having,haves,past tense,past tense,present participle,3rd person singular present
+53,It was obvious that he was lying.,It was obvious that he was ....,lie,lying,lie,lying,lied,present participle,infinitive,present participle,past tense
+54,"This black dress suits you well, you are very stylish.","This black dress ... you well, you are very stylish.",suit,suits,suit,suits,suiting,3rd person singular present,infinitive,3rd person singular present,present participle
+55,He lives in a pleasant house on the seashore.,He ... in a pleasant house on the seashore.,live,lives,lived,living,lives,3rd person singular present,past tense,present participle,3rd person singular present
+56,He knows how to be charming when he wants to be.,He ... how to be charming when he wants to be.,know,knows,knowed,know,knowed,3rd person singular present,past participle,infinitive,past tense
+57,He knows how to be charming when he wants to be.,He knows how to be charming when he ... to be.,want,wants,want,wanting,wants,3rd person singular present,infinitive,present participle,3rd person singular present
+58,He knows how to be charming when he wants to be.,He knows how to ... charming when he wants to ....,be,be,be,bed,bing,infinitive,infinitive,past participle,present participle
+59,A fatal accident occured on the motorway.,A fatal accident ... on the motorway.,occur,occured,occured,occured,occur,past tense,past tense,past participle,infinitive
+60,"To be efficient, you have to be motivated.","To be efficient, you ... to be motivated.",have,have,have,haves,haved,non-3rd person singular present,infinitive,3rd person singular present,past tense
+61,"To be efficient, you have to be motivated.","To be efficient, you have to ....",motivate,be motivated,motivated,motivates,motivating,past participle,past tense,3rd person singular present,present participle
+62,He is very unefficient when he does not sleep,He is very unefficient when he does not ...,sleep,sleep,sleep,sleeped,sleeping,infinitive,infinitive,past tense,present participle
+63,He is very gifted in mathematics.,He is very ... in mathematics.,gift,gifted,gifted,gift,gifts,past participle,past tense,infinitive,3rd person singular present
+64,He is an exceptionnal artist who has a bright future ahead of him.,He is an exceptionnal artist who ... a bright future ahead of him.,have,has,haved,haved,have,3rd person singular present,past participle,past tense,infinitive
+65,Something aweful happened.,Something aweful ....,happen,happened,happened,happens,happen,past tense,past participle,3rd person singular present,infinitive
+66,He took his own car.,He ... his own car.,take,took,takes,take,taked,past tense,3rd person singular present,infinitive,past participle
+67,"The flat is dirty, it should be cleaned up.","The flat is dirty, it ... up.",clean,should be cleaned,cleans,cleaned,cleaned,past participle,3rd person singular present,past participle,past tense
+68,"His speech was short, but the success was thundering.","His speech was short, but the success was ....",thunder,thundering,thundered,thunders,thundered,present participle,past participle,3rd person singular present,past tense
+69,Wanting to take the driver's licence exam without being ready is absurd.,... to take the driver's licence exam without being ready is absurd.,Want,Wanting,Want,Wanted,Wanted,present participle,infinitive,past participle,past tense
+70,Wanting to take the driver's licence exam without being ready is absurd.,Wanting to ... the driver's licence exam without being ready is absurd.,take,take,taking,take,taked,infinitive,present participle,infinitive,past tense
+71,"You left the pie in the oven for too long, it is completely burnt now.","You ... the pie in the oven for too long, it is completely burnt now.",leave,left,leaves,leaving,leaved,past tense,3rd person singular present,present participle,past tense
+72,"You left the pie in the oven for too long, it is completely burnt now.","You left the pie in the oven for too long, it is completely ... now.",burn,burnt,burned,burned,burn,past participle,past tense,past participle,infinitive
+73,Do you prefer onions raw or cooked?,Do you ... onions raw or cooked?,prefer,prefer,prefering,prefered,prefered,infinitive,present participle,past participle,past tense
+74,Do you prefer onions raw or cooked?,Do you prefer onions raw or ...?,cook,cooked,cooks,cooked,cooking,past participle,3rd person singular present,past participle,present participle
+75,"His sister is sterile, she cannot have children.","His sister is sterile, she cannot ... children.",have,have,haves,having,haved,infinitive,3rd person singular present,present participle,past tense
+76,"This bag is very heavy, could you help me?","This bag is very heavy, could you ... me?",help,help,helped,helped,helping,infinitive,past tense,past participle,present participle
+77,"Your suitcase is light, let me carry it for you.","Your suitcase is light, ... me carry it for you.",let,let,let,letting,letted,infinitive,infinitive,present participle,past tense
+78,"Your suitcase is light, let me carry it for you.","Your suitcase is light, let me ... it for you.",carry,carry,carried,carried,carrying,infinitive,past tense,past participle,present participle
+79,"It is a very rare species, it should be protected.","It is a very rare species, it ....",protect,should be protected,protects,protect,protecting,past participle,3rd person singular present,infinitive,present participle
+80,I am visiting my family next month.,I am ... my family next month.,visit,visiting,visited,visit,visited,present participle,past tense,infinitive,past participle
+81,It is the last time I am travelling by bus.,It is the last time I am ... by bus.,travel,travelling,traveled,traveling,travels,present participle,past participle,present participle,3rd person singular present
+82,A powerful explosion woke up the neighboorhood.,A powerful explosion ... up the neighboorhood.,wake,woke,waked,waking,waked,past tense,past participle,present participle,past tense
+83,He is helpless faced with this situation.,He is helpless ... with this situation.,face,faced,faced,facing,faced,past participle,past tense,present participle,past participle
+84,He thinks he passed this exam. Its is possible but not very likely.,He ... he passed this exam. Its is possible but not very likely.,think,thinks,thinked,thinking,thinks,3rd person singular present,past tense,present participle,3rd person singular present
+85,He thinks he passed this exam. Its is possible but not very likely.,He thinks he ... this exam. Its is possible but not very likely.,pass,passed,pass,passes,passing,past tense,infinitive,3rd person singular present,present participle
+86,Swallows come back periodically.,Swallows ... back periodically.,come,come,come,coming,comed,non-3rd person singular present,infinitive,present participle,past participle
+87,"It is a private property, it is forbidden to enter.","It is a private property, it is forbidden to ....",enter,enter,entering,enters,entered,infinitive,present participle,3rd person singular present,past participle
+88,Smoking is forbidden in public places.,Smoking ... in public places.,forbid,is forbidden,forbiding,forbided,forbided,past participle,present participle,past tense,past participle
+89,I am sure I have locked the door.,I am sure I have ... the door.,lock,locked,lock,locks,locked,past participle,infinitive,3rd person singular present,past participle
+90,Practicing sport regularly bears more fruit than practicing sport intensively.,... sport regularly bears more fruit than practicing sport intensively.,Practice,Practicing,Practiced,Practiced,Practices,present participle,past participle,past tense,3rd person singular present
+91,Practicing sport regularly bears more fruit than practicing sport intensively.,Practicing sport regularly ... more fruit than practicing sport intensively.,bear,bears,bearing,beared,bear,3rd person singular present,present participle,past tense,infinitive
+92,Practicing sport regularly bears more fruit than practicing sport intensively.,Practicing sport regularly bears more fruit than ... sport intensively.,practice,practicing,practiced,practice,practices,present participle,past participle,infinitive,3rd person singular present
+93,"The comfort of this house is a bit rustic, but one gets used to it.","The comfort of this house is a bit rustic, but one ... to it.",use,gets used,use,used,using,past participle,infinitive,past participle,present participle
+94,"This job is very exhausting, I will change jobs soon.","This job is very exhausting, I will ... jobs soon.",change,change,changing,changes,changed,infinitive,present participle,3rd person singular present,past tense
+95,She listens to her feminine intuition too much.,She ... to her feminine intuition too much.,listen,listens,listened,listened,listening,3rd person singular present,past tense,past participle,present participle
+96,He just broke an absolute record.,He just ... an absolute record.,break,broke,breaks,breaked,breaking,past tense,3rd person singular present,past tense,present participle
+97,He remained a virgin until the day he got married.,He ... a virgin until the day he got married.,remain,remained,remains,remained,remain,past tense,3rd person singular present,past tense,infinitive
+98,He remained a virgin until the day he got married.,He remained a virgin until the day he got ....,marry,married,married,marrying,married,past participle,past participle,present participle,past tense
+99,He leads a very ordinary life.,He ... a very ordinary life.,lead,leads,leaded,leading,leaded,3rd person singular present,past tense,present participle,past participle
+100,She has an extraordinary ability to forget everything.,She ... an extraordinary ability to forget everything.,have,has,haved,having,have,3rd person singular present,past participle,present participle,infinitive
+101,She has an extraordinary ability to forget everything.,She has an extraordinary ability to ... everything.,forget,forget,forgeting,forgets,forgeted,infinitive,present participle,3rd person singular present,past tense
+102,He came quickly after his work.,He ... quickly after his work.,come,came,coming,comed,comed,past tense,present participle,past participle,past tense
+103,Better to drive slowly but carefully.,Better to ... slowly but carefully.,drive,drive,drived,drives,drived,infinitive,past tense,3rd person singular present,past participle
+104,"Suddenly, the bus pulled up.","Suddenly, the bus ... up.",pull,pulled,pulls,pulled,pull,past tense,3rd person singular present,past tense,infinitive
+105,I came mostly to see you.,I ... mostly to see you.,come,came,come,comed,comed,past tense,infinitive,past tense,past participle
+106,I came mostly to see you.,I came mostly to ... you.,see,see,see,sees,seed,infinitive,infinitive,3rd person singular present,past tense
+107,"Most of the time, he goes out on Saturday nights.","Most of the time, he ... out on Saturday nights.",go,goes,goed,gos,go,3rd person singular present,past participle,3rd person singular present,infinitive
+108,Have you eaten enough?,Have you ... enough?,eat,eaten,eated,eat,eating,past participle,past participle,infinitive,present participle
+109,He seldom visits his parents.,He seldom ... his parents.,visit,visits,visits,visited,visit,3rd person singular present,3rd person singular present,past tense,infinitive
+110,He often takes the bus to come.,He often ... the bus to come.,take,takes,takes,taked,taked,3rd person singular present,3rd person singular present,past participle,past tense
+111,He often takes the bus to come.,He often takes the bus to ....,come,come,comed,comed,coming,infinitive,past participle,past tense,present participle
+112,You always have to double lock the door in this neighborhood.,You always ... to double lock the door in this neighborhood.,have,have,have,haved,haved,non-3rd person singular present,infinitive,past participle,past tense
+113,You always have to double lock the door in this neighborhood.,You always have to double ... the door in this neighborhood.,lock,lock,locks,locking,locked,infinitive,3rd person singular present,present participle,past tense
+114,We never went on holidays.,We never ... on holidays.,go,went,going,go,goed,past tense,present participle,infinitive,past participle
+115,I go to the cinema from times to times.,I ... to the cinema from times to times.,go,go,gos,going,go,non-3rd person singular present,3rd person singular present,present participle,infinitive
+116,He travelled a lot when he was young.,He ... a lot when he was young.,travel,travelled,travel,traveled,traveling,past tense,infinitive,past tense,present participle
+117,"You work little, but you earn a lot of money.","You ... little, but you earn a lot of money.",work,work,work,working,worked,non-3rd person singular present,infinitive,present participle,past tense
+118,"You work little, but you earn a lot of money.","You work little, but you ... a lot of money.",earn,earn,earn,earning,earns,non-3rd person singular present,infinitive,present participle,3rd person singular present
+119,"Generally, we go to bed before midnight.","Generally, we ... to bed before midnight.",go,go,goed,goed,going,non-3rd person singular present,past participle,past tense,present participle
+120,I am going shopping now.,I am ... shopping now.,go,going,going,goed,gos,present participle,present participle,past participle,3rd person singular present
+121,I am going shopping now.,I am going ... now.,shop,shopping,shopped,shop,shops,present participle,past tense,infinitive,3rd person singular present
+122,I went to the garden with the kids yesterday.,I ... to the garden with the kids yesterday.,go,went,going,go,gos,past tense,present participle,infinitive,3rd person singular present
+123,"Today, I have nothing special to do.","Today, I ... nothing special to do.",have,have,haved,have,haves,non-3rd person singular present,past participle,infinitive,3rd person singular present
+124,"Today, I have nothing special to do.","Today, I have nothing special to ....",do,do,doed,doing,doed,infinitive,past participle,present participle,past tense
+125,We will talk about that tomorrow.,We will ... about that tomorrow.,talk,talk,talks,talked,talk,infinitive,3rd person singular present,past tense,infinitive
+126,We will meet later.,We will ... later.,meet,meet,meets,meeting,meeted,infinitive,3rd person singular present,present participle,past participle
+127,My letter has finally arrived.,My letter has finally ....,arrive,arrived,arrives,arrived,arrived,past participle,3rd person singular present,past tense,past participle
+128,She is constantly moaning.,She is constantly ....,moan,moaning,moaned,moans,moaned,present participle,past participle,3rd person singular present,past tense
+129,He lives far from downtown.,He ... far from downtown.,live,lives,live,lives,lived,3rd person singular present,infinitive,3rd person singular present,past tense
+130,It happened next to our house.,It ... next to our house.,happen,happened,happens,happen,happening,past tense,3rd person singular present,infinitive,present participle
+131,"The more I think about it, the more I am satisfied with my choice.","The more I ... about it, the more I am satisfied with my choice.",think,think,think,thinks,thinked,non-3rd person singular present,infinitive,3rd person singular present,past tense
+132,"Go read somewhere else, the girl needs to sleep.","... read somewhere else, the girl needs to sleep.",Go,Go,Go,Goed,Going,infinitive,infinitive,past participle,present participle
+133,"Go read somewhere else, the girl needs to sleep.","Go ... somewhere else, the girl needs to sleep.",read,read,read,reads,readed,infinitive,infinitive,3rd person singular present,past participle
+134,"Go read somewhere else, the girl needs to sleep.","Go read somewhere else, the girl ... to sleep.",need,needs,needed,needing,need,3rd person singular present,past tense,present participle,infinitive
+135,"Go read somewhere else, the girl needs to sleep.","Go read somewhere else, the girl needs to ....",sleep,sleep,sleeping,sleeped,sleeps,infinitive,present participle,past tense,3rd person singular present
+136,He has almost finished his meal.,He has almost ... his meal.,finish,finished,finishes,finished,finished,past participle,3rd person singular present,past tense,past participle
+137,"We arrived too late, we could not get in.","We ... too late, we could not get in.",arrive,arrived,arrives,arriving,arrived,past tense,3rd person singular present,present participle,past tense
+138,"We arrived too late, we could not get in.","We arrived too late, we could not ... in.",get,get,getting,getted,getted,infinitive,present participle,past tense,past participle
+139,He too wants to join the project.,He too ... to join the project.,want,wants,wanted,want,wants,3rd person singular present,past tense,infinitive,3rd person singular present
+140,He too wants to join the project.,He too wants to ... the project.,join,join,joined,joined,joining,infinitive,past tense,past participle,present participle
+141,They are going to the cinema together tomorrow.,They are ... to the cinema together tomorrow.,go,going,go,goed,gos,present participle,infinitive,past participle,3rd person singular present
+142,The dog is burried behind the house.,The dog ... behind the house.,burry,is burried,burried,burried,burries,past participle,past tense,past participle,3rd person singular present
+143,He looked for his jacket in the wardrobe but he did not thought about looking over it.,He ... for his jacket in the wardrobe but he did not thought about looking over it.,look,looked,looked,looking,look,past tense,past tense,present participle,infinitive
+144,He looked for his jacket in the wardrobe but he did not thought about looking over it.,He looked for his jacket in the wardrobe but he did not ... about looking over it.,think,thought,thinked,thinked,think,infinitive,past participle,past tense,infinitive
+145,He looked for his jacket in the wardrobe but he did not thought about looking over it.,He looked for his jacket in the wardrobe but he did not thought about ... over it.,look,looking,looked,looked,looks,present participle,past tense,past participle,3rd person singular present
+146,"My book is no longer on the table, he might have fallen underneath it.","My book is no longer on the table, he might have ... underneath it.",fall,fallen,falled,fall,falling,past participle,past participle,infinitive,present participle
+147,Do not let the cat walk on the table.,Do not ... the cat walk on the table.,let,let,letted,letted,lets,infinitive,past tense,past participle,3rd person singular present
+148,Do not let the cat walk on the table.,Do not let the cat ... on the table.,walk,walk,walking,walks,walked,infinitive,present participle,3rd person singular present,past participle
+149,He arrived an hour before the show.,He ... an hour before the show.,arrive,arrived,arrives,arrive,arrived,past tense,3rd person singular present,infinitive,past participle
+150,Your brother will come after lunch.,Your brother will ... after lunch.,come,come,coming,comed,comes,infinitive,present participle,past participle,3rd person singular present
+151,We only have two children.,We only ... two children.,have,have,haved,having,haves,non-3rd person singular present,past participle,present participle,3rd person singular present
+152,Do you really want to go to the cinema?,Do you really ... to go to the cinema?,want,want,wanted,wants,wanting,infinitive,past tense,3rd person singular present,present participle
+153,Do you really want to go to the cinema?,Do you really want to ... to the cinema?,go,go,goed,gos,goed,infinitive,past tense,3rd person singular present,past participle
+154,He came by for a bit and then he left.,He ... by for a bit and then he left.,come,came,come,comed,comes,past tense,infinitive,past tense,3rd person singular present
+155,He came by for a bit and then he left.,He came by for a bit and then he ....,leave,left,leaving,leaved,leave,past tense,present participle,past tense,infinitive
+156,"Speaking about your studies, how did your exams go?","... about your studies, how did your exams go?",Speak,Speaking,Speak,Speaked,Speaks,present participle,infinitive,past tense,3rd person singular present
+157,"Speaking about your studies, how did your exams go?","Speaking about your studies, how did your exams ...?",go,go,goed,going,go,infinitive,past participle,present participle,infinitive
+158,He works even when he is ill.,He ... even when he is ill.,work,works,work,works,worked,3rd person singular present,infinitive,3rd person singular present,past tense
+159,The kids left the toys out of the box.,The kids ... the toys out of the box.,leave,left,leaved,leaving,leaved,past tense,past tense,present participle,past participle
+160,The cat stays inside the house all day long.,The cat ... inside the house all day long.,stay,stays,stayed,staying,stay,3rd person singular present,past participle,present participle,infinitive
+161,The kids are playing outside.,The kids are ... outside.,play,playing,playing,played,plays,present participle,present participle,past participle,3rd person singular present
+162,"Come inside, it is freezing cold outside.","... inside, it is freezing cold outside.",Come,Come,Comed,Comes,Comed,infinitive,past tense,3rd person singular present,past participle
+163,"Come inside, it is freezing cold outside.","Come inside, it is ... cold outside.",freeze,freezing,freezes,freezed,freezing,present participle,3rd person singular present,past participle,present participle
+164,She comes regularly to give him French lessons.,She ... regularly to give him French lessons.,come,comes,coming,comed,come,3rd person singular present,present participle,past participle,infinitive
+165,She comes regularly to give him French lessons.,She comes regularly to ... him French lessons.,give,give,giving,gived,gives,infinitive,present participle,past participle,3rd person singular present
+166,He forgives easily but he never forgets.,He ... easily but he never forgets.,forgive,forgives,forgived,forgiving,forgive,3rd person singular present,past tense,present participle,infinitive
+167,He forgives easily but he never forgets.,He forgives easily but he never ....,forget,forgets,forgeted,forget,forgets,3rd person singular present,past participle,infinitive,3rd person singular present
+168,The debt crisis has recently gotten worse.,The debt crisis has recently ... worse.,get,gotten,getting,gets,getted,past participle,present participle,3rd person singular present,past tense
+169,He has planned his work wisely.,He has ... his work wisely.,plan,planned,planned,plans,planning,past participle,past participle,3rd person singular present,present participle
+170,I can possibly come this weekend if you want to.,I can possibly ... this weekend if you want to.,come,come,comed,comes,come,infinitive,past participle,3rd person singular present,infinitive
+171,I can possibly come this weekend if you want to.,I can possibly come this weekend if you ... to.,want,want,wanted,wants,want,non-3rd person singular present,past tense,3rd person singular present,infinitive
+172,I go to work merrily on Mondays.,I ... to work merrily on Mondays.,go,go,goed,gos,goed,non-3rd person singular present,past participle,3rd person singular present,past tense
+173,I go to work merrily on Mondays.,I go to ... merrily on Mondays.,work,work,worked,works,work,infinitive,past tense,3rd person singular present,infinitive
+174,"Immediatly after the elections, he went on holidays.","Immediatly after the elections, he ... on holidays.",go,went,go,goed,gos,past tense,infinitive,past participle,3rd person singular present
+175,I completely forgot to bring you back your book.,I completely ... to bring you back your book.,forget,forgot,forgeting,forgeted,forget,past tense,present participle,past participle,infinitive
+176,I completely forgot to bring you back your book.,I completely forgot to ... you back your book.,bring,bring,bringed,bringing,bringed,infinitive,past tense,present participle,past participle
+177,"After having spoken to him violently, he apologized.","After having ... to him violently, he apologized.",speak,spoken,speaked,speaking,speaks,past participle,past participle,present participle,3rd person singular present
+178,"After having spoken to him violently, he apologized.","After having spoken to him violently, he ....",apologize,apologized,apologizing,apologizes,apologized,past tense,present participle,3rd person singular present,past participle
+179,He bound the boles together firmly with a rope.,He ... the boles together firmly with a rope.,bind,bound,bind,binds,binded,past tense,infinitive,3rd person singular present,past tense
+180,I answered him politely but firmly.,I ... him politely but firmly.,answer,answered,answer,answered,answering,past tense,infinitive,past tense,present participle
+181,"Honestly, do you think your opinion will change anything?","Honestly, do you ... your opinion will change anything?",think,think,thinking,thinked,thinked,infinitive,present participle,past participle,past tense
+182,"Honestly, do you think your opinion will change anything?","Honestly, do you think your opinion will ... anything?",change,change,changed,change,changes,infinitive,past participle,infinitive,3rd person singular present
+183,His son simply dropped university.,His son simply ... university.,drop,dropped,drop,drops,dropped,past tense,infinitive,3rd person singular present,past participle
+184,Crickets periodically devastate crops.,Crickets periodically ... crops.,devastate,devastate,devastates,devastated,devastated,non-3rd person singular present,3rd person singular present,past participle,past tense
+185,The situation could potentially go out of control.,The situation could potentially ... out of control.,go,go,goed,gos,going,infinitive,past tense,3rd person singular present,present participle
+186,They obviously did not answer the provocation.,They obviously did not ... the provocation.,answer,answer,answering,answered,answered,infinitive,present participle,past tense,past participle
+187,He calmly did his calculations again from the beginning.,He calmly ... his calculations again from the beginning.,do,did,doed,do,doing,past tense,past participle,infinitive,present participle
+188,They spoke yesterday evening for a long time and they have patched things up.,They ... yesterday evening for a long time and they have patched things up.,speak,spoke,speaks,speaked,speaking,past tense,3rd person singular present,past tense,present participle
+189,They spoke yesterday evening for a long time and they have patched things up.,They spoke yesterday evening for a long time and they have ... things up.,patch,patched,patches,patch,patching,past participle,3rd person singular present,infinitive,present participle
+190,The country widely suffered from the economic crisis.,The country widely ... from the economic crisis.,suffer,suffered,suffering,suffered,suffers,past tense,present participle,past tense,3rd person singular present
+191,There surely is a better explanation.,There surely ... a better explanation.,be,is,bes,be,bing,3rd person singular present,3rd person singular present,infinitive,present participle
+192,"Naturally, he did not do what he was asked to.","Naturally, he did not ... what he was asked to.",do,do,dos,doed,do,infinitive,3rd person singular present,past tense,infinitive
+193,"Naturally, he did not do what he was asked to.","Naturally, he did not do what he ... to.",ask,was asked,asking,asks,asked,past participle,present participle,3rd person singular present,past participle
+194,It is precisely for this reason that I did not come.,It is precisely for this reason that I did not ....,come,come,comed,comed,come,infinitive,past tense,past participle,infinitive
+195,He does this movement mechanically.,He ... this movement mechanically.,do,does,do,doing,dos,3rd person singular present,infinitive,present participle,3rd person singular present
+196,He works more efficiently on Mondays.,He ... more efficiently on Mondays.,work,works,worked,work,working,3rd person singular present,past tense,infinitive,present participle
+197,"Listen to me, I am talking to you seriously.","... to me, I am talking to you seriously.",Listen,Listen,Listening,Listen,Listens,infinitive,present participle,infinitive,3rd person singular present
+198,"Listen to me, I am talking to you seriously.","Listen to me, I am ... to you seriously.",talk,talking,talks,talked,talking,present participle,3rd person singular present,past participle,present participle
+199,He distributed his lands generously.,He ... his lands generously.,distribute,distributed,distributing,distributed,distribute,past tense,present participle,past tense,infinitive
+200,The mother protects her child instictively.,The mother ... her child instictively.,protect,protects,protects,protected,protecting,3rd person singular present,3rd person singular present,past participle,present participle
+201,I think I saw a panther.,I ... I saw a panther.,think,think,thinking,thinked,thinked,non-3rd person singular present,present participle,past participle,past tense
+202,I think I saw a panther.,I think I ... a panther.,see,saw,seeing,seed,seed,past tense,present participle,past participle,past tense
+203,The antelope scampered at the sight of the lion.,The antelope ... at the sight of the lion.,scamper,scampered,scampered,scampered,scampers,past tense,past participle,past tense,3rd person singular present
+204,The hamster is biting the bars of its cage.,The hamster is ... the bars of its cage.,bite,biting,bited,bited,bites,present participle,past tense,past participle,3rd person singular present
+205,Pink flamingos can live in extreme conditions.,Pink flamingos can ... in extreme conditions.,live,live,live,lived,lives,infinitive,infinitive,past tense,3rd person singular present
+206,The rabbit ran over in its burrow.,The rabbit ... over in its burrow.,run,ran,run,runs,runned,past tense,infinitive,3rd person singular present,past participle
+207,The hare was blinded by the headlights.,The hare ... by the headlights.,blind,was blinded,blinded,blinds,blinded,past participle,past tense,3rd person singular present,past participle
+208,The squirrel jumped out from the tree.,The squirrel ... out from the tree.,jump,jumped,jumps,jumped,jump,past tense,3rd person singular present,past tense,infinitive
+209,The goose rushed at the little boy.,The goose ... at the little boy.,rush,rushed,rushes,rushed,rushing,past tense,3rd person singular present,past participle,present participle
+210,The turkey clucked when it saw the turkey cock.,The turkey ... when it saw the turkey cock.,cluck,clucked,clucking,clucked,clucks,past tense,present participle,past participle,3rd person singular present
+211,The turkey clucked when it saw the turkey cock.,The turkey clucked when it ... the turkey cock.,see,saw,seed,sees,seeing,past tense,past tense,3rd person singular present,present participle
+212,The turkey was eaten yesterday night,The turkey ... yesterday night,eat,was eaten,eating,eats,eated,past participle,present participle,3rd person singular present,past participle
+213,The deer is being chased by the dogs.,The deer ... by the dogs.,chase,is being chased,chasing,chased,chased,past participle,present participle,past participle,past tense
+214,The fawn suckles from its mother.,The fawn ... from its mother.,suckle,suckles,suckled,suckled,suckles,3rd person singular present,past participle,past tense,3rd person singular present
+215,The hyena giggled loudly.,The hyena ... loudly.,giggle,giggled,giggles,giggled,giggling,past tense,3rd person singular present,past participle,present participle
+216,Dromedaries have one bump while camels have two.,Dromedaries ... one bump while camels ... two.,have,have,haves,haved,have,non-3rd person singular present,3rd person singular present,past tense,infinitive
+217,Dromedaries have one bump while camels have two.,Dromedaries ... one bump while camels ... two.,have,have,haved,having,haves,non-3rd person singular present,past participle,present participle,3rd person singular present
+218,The hedgehog curled up to protect himself.,The hedgehog ... up to protect himself.,curl,curled,curled,curling,curled,past tense,past tense,present participle,past participle
+219,The hedgehog curled up to protect himself.,The hedgehog curled up to ... himself.,protect,protect,protects,protecting,protected,infinitive,3rd person singular present,present participle,past participle
+220,The turtle put its head back into its carapace.,The turtle ... its head back into its carapace.,put,put,putting,putted,puts,past tense,present participle,past tense,3rd person singular present
+221,Kangaroo leaps can reach up to 13 meters.,Kangaroo leaps can ... up to 13 meters.,reach,reach,reaches,reach,reached,infinitive,3rd person singular present,infinitive,past tense
+222,The Nile Perch made many fishes disappear recently.,The Nile Perch ... many fishes disappear recently.,make,made,maked,makes,maked,past tense,past tense,3rd person singular present,past participle
+223,The Nile Perch made many fishes disappear recently.,The Nile Perch made many fishes ... recently.,disappear,disappear,disappeared,disappearing,disappeared,infinitive,past participle,present participle,past tense
+224,The goldfish has been eaten by the cat.,The goldfish ... by the cat.,eat,has been eaten,eating,eated,eats,past participle,present participle,past tense,3rd person singular present
+225,"Your canari is full of mites, you should treat it.","Your canari is full of mites, you should ... it.",treat,treat,treating,treat,treated,infinitive,present participle,infinitive,past tense
+226,The triton went out of the pond.,The triton ... out of the pond.,go,went,goed,goed,going,past tense,past tense,past participle,present participle
+227,Leeches have a particularly developed sense of smell.,Leeches ... a particularly developed sense of smell.,have,have,haved,haved,have,non-3rd person singular present,past participle,past tense,infinitive
+228,Leeches have a particularly developed sense of smell.,Leeches have a particularly ... sense of smell.,develop,developed,developed,developing,develop,past participle,past participle,present participle,infinitive
+229,Vultures use updrafts to move.,Vultures ... updrafts to move.,use,use,uses,use,used,non-3rd person singular present,3rd person singular present,infinitive,past tense
+230,Vultures use updrafts to move.,Vultures use updrafts to ....,move,move,move,moving,moved,infinitive,infinitive,present participle,past tense
+231,Red tuna is intensively fished.,Red tuna is intensively ....,fish,fished,fished,fishes,fish,past participle,past participle,3rd person singular present,infinitive
+232,Do you want to take another slice of salmon?,Do you ... to take another slice of salmon?,want,want,wanted,wants,want,infinitive,past participle,3rd person singular present,infinitive
+233,Do you want to take another slice of salmon?,Do you want to ... another slice of salmon?,take,take,taked,taked,taking,infinitive,past participle,past tense,present participle
+234,This crab has a claw which is bigger than its other one.,This crab ... a claw which is bigger than its other one.,have,has,haved,haves,have,3rd person singular present,past participle,3rd person singular present,infinitive
+235,Do you also eat the head of the shrimp?,Do you also ... the head of the shrimp?,eat,eat,eat,eated,eating,infinitive,infinitive,past tense,present participle
+236,Your son is gathering shells on the beach.,Your son is ... shells on the beach.,gather,gathering,gather,gathers,gathering,present participle,infinitive,3rd person singular present,present participle
+237,The snail went out of its shell.,The snail ... out of its shell.,go,went,go,gos,goed,past tense,infinitive,3rd person singular present,past participle
+238,The little girl threw the starfish away into the sea.,The little girl ... the starfish away into the sea.,throw,threw,throwing,throw,throwed,past tense,present participle,infinitive,past tense
+239,Mussels are eaten with French fries in Belgium.,Mussels ... with French fries in Belgium.,eat,are eaten,eat,eated,eating,past participle,infinitive,past tense,present participle
+240,Oysters are eaten alive.,Oysters ... alive.,eat,are eaten,eated,eat,eating,past participle,past tense,infinitive,present participle
+241,The octopus released some ink to make its escape easier.,The octopus ... some ink to make its escape easier.,release,released,releasing,released,released,past tense,present participle,past participle,past tense
+242,The octopus released some ink to make its escape easier.,The octopus released some ink to ... its escape easier.,make,make,maked,make,makes,infinitive,past participle,infinitive,3rd person singular present
+243,A crushed bug emits a strong smell.,A ... bug emits a strong smell.,crush,crushed,crushing,crush,crushed,past participle,present participle,infinitive,past participle
+244,A crushed bug emits a strong smell.,A crushed bug ... a strong smell.,emit,emits,emit,emits,emitting,3rd person singular present,infinitive,3rd person singular present,present participle
+245,The chameleon shifted colour once more.,The chameleon ... colour once more.,shift,shifted,shifted,shift,shifts,past tense,past tense,infinitive,3rd person singular present
+246,Eels can move on dry land.,Eels can ... on dry land.,move,move,moving,moves,moved,infinitive,present participle,3rd person singular present,past tense
+247,Praying mantis eat their male after mating.,... mantis eat their male after mating.,Pray,Praying,Praying,Prayed,Pray,present participle,present participle,past tense,infinitive
+248,Praying mantis eat their male after mating.,Praying mantis ... their male after mating.,eat,eat,eat,eated,eats,infinitive,infinitive,past tense,3rd person singular present
+249,Praying mantis eat their male after mating.,Praying mantis eat their male after ....,mate,mating,mates,mated,mated,present participle,3rd person singular present,past participle,past tense
+250,"The flat is full of moths, clothes have been eaten up.","The flat is full of moths, clothes ... up.",eat,have been eaten,eats,eating,eated,past participle,3rd person singular present,present participle,past participle
+251,The canary has been refusing to sing for weeks.,The canary has been ... to sing for weeks.,refuse,refusing,refusing,refused,refused,present participle,present participle,past tense,past participle
+252,The canary has been refusing to sing for weeks.,The canary has been refu... to ... for weeks.,sing,sing,singed,sings,sing,infinitive,past participle,3rd person singular present,infinitive
+253,The crow coaked loudly.,The crow ... loudly.,coak,coaked,coaked,coak,coaking,past tense,past tense,infinitive,present participle
+254,The raven held a piece of cheese in his beak.,The raven ... a piece of cheese in his beak.,hold,held,holded,holds,holding,past tense,past participle,3rd person singular present,present participle
+255,The heron is perched in the tree.,The heron ... in the tree.,perch,is perched,perches,perch,perched,past participle,3rd person singular present,infinitive,past participle
+256,The owl hooted all night long.,The owl ... all night long.,hoot,hooted,hoots,hooted,hoot,past tense,3rd person singular present,past tense,infinitive
+257,The owl spit a ball.,The owl ... a ball.,spit,spit,spitted,spitted,spit,past tense,past participle,past tense,infinitive
+258,The albatros can fly over large distances.,The albatros can ... over large distances.,fly,fly,flying,fly,flies,infinitive,present participle,infinitive,3rd person singular present
+259,The seagull landed on a rock.,The seagull ... on a rock.,land,landed,landed,landing,landed,past tense,past tense,present participle,past participle
+260,The chimpazee is making faces.,The chimpazee is ... faces.,make,making,makes,making,maked,present participle,3rd person singular present,present participle,past tense
+261,The raccoon washes its food before eating it.,The raccoon ... its food before eating it.,wash,washes,washing,washed,wash,3rd person singular present,present participle,past tense,infinitive
+262,The raccoon washes its food before eating it.,The raccoon washes its food before ... it.,eat,eating,eating,eated,eated,present participle,present participle,past participle,past tense
+263,The silk-worm was plunged into boiling water.,The silk-worm ... into boiling water.,plunge,was plunged,plunge,plunged,plunged,past participle,infinitive,past participle,past tense
+264,The silk-worm was plunged into boiling water.,The silk-worm was plunged into ... water.,boil,boiling,boiling,boiled,boils,present participle,present participle,past tense,3rd person singular present
+265,"I would like a pizza with achovies, please.","I would ... a pizza with achovies, please.",like,like,liked,liking,likes,infinitive,past participle,present participle,3rd person singular present
+266,A school of sardines has been spotted by a helicopter.,A school of sardines ... by a helicopter.,spot,has been spotted,spotted,spots,spotted,past participle,past tense,3rd person singular present,past participle
+267,The sole is a fish which merges with sand.,The sole is a fish which ... with sand.,merge,merges,merges,merge,merging,3rd person singular present,3rd person singular present,infinitive,present participle
+268,The tail of the ray can contain a lethal venom.,The tail of the ray can ... a lethal venom.,contain,contain,contained,containing,contains,infinitive,past tense,present participle,3rd person singular present
+269,Marsupials live mostly in Australia.,Marsupials ... mostly in Australia.,live,live,live,living,lived,non-3rd person singular present,infinitive,present participle,past participle
+270,He has three ursin stings in the foot.,He ... three ursin stings in the foot.,have,has,haved,haves,having,3rd person singular present,past tense,3rd person singular present,present participle
+271,The mangoose finally killed the cobra.,The mangoose finally ... the cobra.,kill,killed,killed,kill,killed,past tense,past tense,infinitive,past participle
+272,The crow opened the walnut with its beak.,The crow ... the walnut with its beak.,open,opened,opening,opened,opened,past tense,present participle,past tense,past participle
+273,Jackals live in small groups.,Jackals ... in small groups.,live,live,living,lives,lived,non-3rd person singular present,present participle,3rd person singular present,past participle
+274,Millipedes cross the road carefully,Millipedes ... the road carefully,cross,cross,crossed,cross,crosses,non-3rd person singular present,past participle,infinitive,3rd person singular present
+275,Centipedes live in the litter.,Centipedes ... in the litter.,live,live,lived,lives,live,non-3rd person singular present,past tense,3rd person singular present,infinitive
+276,Tarentulas are eaten in Southeast Asia.,Tarentulas ... in Southeast Asia.,eat,are eaten,eat,eating,eated,past participle,infinitive,present participle,past tense
+277,The pelican swallowed three fishes at a time.,The pelican ... three fishes at a time.,swallow,swallowed,swallowed,swallowed,swallow,past tense,past participle,past tense,infinitive
+278,Tadpoles metamophose into frogs after a few weeks.,Tadpoles ... into frogs after a few weeks.,metamophose,metamophose,metamophosed,metamophosing,metamophoses,non-3rd person singular present,past participle,present participle,3rd person singular present
+279,The stork nested on the chimney.,The stork ... on the chimney.,nest,nested,nest,nests,nested,past tense,infinitive,3rd person singular present,past tense
+280,The caterpillar is making its cocoon.,The caterpillar is ... its cocoon.,make,making,maked,makes,maked,present participle,past participle,3rd person singular present,past tense
+281,The marmot is digging its burrow.,The marmot is ... its burrow.,dig,digging,digs,dig,digging,present participle,3rd person singular present,infinitive,present participle
+282,The skin of the cow is used to make leather.,The skin of the cow ... to make leather.,use,is used,used,uses,using,past participle,past participle,3rd person singular present,present participle
+283,The skin of the cow is used to make leather.,The skin of the cow is used to ... leather.,make,make,makes,maked,making,infinitive,3rd person singular present,past participle,present participle
+284,The fangs of the cat were covered with blood.,The fangs of the cat ... with blood.,cover,were covered,covers,covered,cover,past participle,3rd person singular present,past tense,infinitive
+285,There are pigeon feathers all over the room.,There ... pigeon feathers all over the room.,be,are,be,bed,bing,non-3rd person singular present,infinitive,past participle,present participle
+286,The turkey giggles to impress the female turkey.,The turkey ... to impress the female turkey.,giggle,giggles,giggles,giggle,giggling,3rd person singular present,3rd person singular present,infinitive,present participle
+287,The turkey giggles to impress the female turkey.,The turkey giggles to ... the female turkey.,impress,impress,impresses,impressed,impressing,infinitive,3rd person singular present,past participle,present participle
+288,Sheep bleated while on their way back to the stable.,Sheep ... while on their way back to the stable.,bleat,bleated,bleats,bleated,bleating,past tense,3rd person singular present,past participle,present participle
+289,The studhorse neighed before galloping away.,The studhorse ... before galloping away.,neigh,neighed,neighing,neighs,neighed,past tense,present participle,3rd person singular present,past participle
+290,The studhorse neighed before galloping away.,The studhorse neighed before ... away.,gallop,galloping,galloped,galloping,gallop,present participle,past participle,present participle,infinitive
+291,You can hear a crow cawing far away.,You can ... a crow cawing far away.,hear,hear,hears,heared,heared,infinitive,3rd person singular present,past tense,past participle
+292,You can hear a crow cawing far away.,You can hear a crow ... far away.,caw,cawing,cawed,cawed,cawing,present participle,past tense,past participle,present participle
+293,The lion roared in the savanna.,The lion ... in the savanna.,roar,roared,roar,roars,roared,past tense,infinitive,3rd person singular present,past tense
+294,Cows moo when they are scared,Cows ... when they are scared,moo,moo,mooed,moos,mooed,non-3rd person singular present,past tense,3rd person singular present,past participle
+295,The neighbour's dog growled when he saw the children.,The neighbour's dog ... when he saw the children.,growl,growled,growl,growls,growled,past tense,infinitive,3rd person singular present,past participle
+296,The neighbour's dog growled when he saw the children.,The neighbour's dog growled when he ... the children.,see,saw,seeing,seed,see,past tense,present participle,past participle,infinitive
+297,The cat is meowing in front of the fridge.,The cat is ... in front of the fridge.,meow,meowing,meow,meowed,meowed,present participle,infinitive,past participle,past tense
+298,The dogs barked all night long.,The dogs ... all night long.,bark,barked,barking,barked,barks,past tense,present participle,past tense,3rd person singular present
+299,They sell turtle shells at the market.,They ... turtle shells at the market.,sell,sell,sell,selling,sells,non-3rd person singular present,infinitive,present participle,3rd person singular present
+300,The fish scales should be removed before putting it in the oven.,The fish scales ... before putting it in the oven.,remove,should be removed,removed,removing,removed,past participle,past tense,present participle,past participle
+301,The fish scales should be removed before putting it in the oven.,The fish scales should be removed before ... it in the oven.,put,putting,putting,putted,puts,present participle,present participle,past participle,3rd person singular present
+302,The cat hurt his paw.,The cat ... his paw.,hurt,hurt,hurted,hurted,hurting,past tense,past participle,past tense,present participle
+303,A shark fin alarmed the surfers.,A shark fin ... the surfers.,alarm,alarmed,alarms,alarming,alarmed,past tense,3rd person singular present,present participle,past participle
+304,Zebras rays do not constitute a good camouflage.,Zebras rays do not ... a good camouflage.,constitute,constitute,constitutes,constitute,constituted,infinitive,3rd person singular present,infinitive,past participle
+305,The eagle grasped the lamb into its claws.,The eagle ... the lamb into its claws.,grasp,grasped,grasp,grasping,grasped,past tense,infinitive,present participle,past tense
+306,The cat uses its tail to keep its balance.,The cat ... its tail to keep its balance.,use,uses,used,using,use,3rd person singular present,past participle,present participle,infinitive
+307,The cat uses its tail to keep its balance.,The cat uses its tail to ... its balance.,keep,keep,keeped,keeps,keeped,infinitive,past participle,3rd person singular present,past tense
+308,The monkey cub suckled the teat of its mother.,The monkey cub ... the teat of its mother.,suckle,suckled,suckles,suckle,suckling,past tense,3rd person singular present,infinitive,present participle
+309,The horse gave him a kick with his hoof.,The horse ... him a kick with his hoof.,give,gave,gived,gived,giving,past tense,past tense,past participle,present participle
+310,Do you have pets at home?,Do you ... pets at home?,have,have,having,have,haved,infinitive,present participle,infinitive,past participle
+311,The termitary seemed empty.,The termitary ... empty.,seem,seemed,seemed,seemed,seem,past tense,past participle,past tense,infinitive
+312,The gorilla tried to intimidate the poacher.,The gorilla ... to intimidate the poacher.,try,tried,tried,tries,trying,past tense,past tense,3rd person singular present,present participle
+313,The gorilla tried to intimidate the poacher.,The gorilla tried to ... the poacher.,intimidate,intimidate,intimidate,intimidating,intimidated,infinitive,infinitive,present participle,past participle
+314,Urang utangs are threatened by palm oil culture.,Urang utangs ... by palm oil culture.,threaten,are threatened,threatened,threatened,threatening,past participle,past tense,past participle,present participle
+315,There is a spring on its land.,There ... a spring on its land.,be,is,bed,bing,bed,3rd person singular present,past participle,present participle,past tense
+316,Sloths live in Amazonia.,Sloths ... in Amazonia.,live,live,live,lived,living,non-3rd person singular present,infinitive,past tense,present participle
+317,My father had his leg eaten by an alligator.,My father ... his leg eaten by an alligator.,have,had,haves,having,haved,past tense,3rd person singular present,present participle,past participle
+318,My father had his leg eaten by an alligator.,My father had his leg ... by an alligator.,eat,eaten,eats,eating,eated,past participle,3rd person singular present,present participle,past participle
+319,A viper was warming up in the sun.,A viper was ... up in the sun.,warm,warming,warmed,warmed,warm,present participle,past participle,past tense,infinitive
+320,This grass-snake is sloughing its skin.,This grass-snake is ... its skin.,slough,sloughing,sloughed,sloughed,sloughs,present participle,past tense,past participle,3rd person singular present
+321,A rattlesnake was coiled up around the branch.,A rattlesnake ... up around the branch.,coil,was coiled,coil,coiled,coils,past participle,infinitive,past tense,3rd person singular present
+322,Lizards regulate their body temperature by sunbathing.,Lizards ... their body temperature by sunbathing.,regulate,regulate,regulate,regulated,regulates,non-3rd person singular present,infinitive,past participle,3rd person singular present
+323,Toucans beaks are very coloured.,Toucans beaks are very ....,colour,coloured,coloured,colouring,colour,past participle,past tense,present participle,infinitive
+324,The hawk swooped down on its prey.,The hawk ... down on its prey.,swoop,swooped,swooping,swoop,swooped,past tense,present participle,infinitive,past tense
+325,Parrots can live up to eighty years.,Parrots can ... up to eighty years.,live,live,lived,lived,lives,infinitive,past participle,past tense,3rd person singular present
+326,Parakeets often live in pairs.,Parakeets often ... in pairs.,live,live,living,lived,live,non-3rd person singular present,present participle,past tense,infinitive
+327,A condor flied high in the sky.,A condor ... high in the sky.,fly,flied,flied,fly,flying,past tense,past participle,infinitive,present participle
+328,The ostrich burried its head into the sand.,The ostrich ... its head into the sand.,burry,burried,burries,burry,burried,past tense,3rd person singular present,infinitive,past tense
+329,"Penguins can fly, unlike ...","Penguins can ..., unlike ...",fly,fly,flied,flying,flied,infinitive,past participle,present participle,past tense
+330,Penguins can swim over large distances to reach fishing zones.,Penguins can ... over large distances to reach fishing zones.,swim,swim,swim,swims,swimming,infinitive,infinitive,3rd person singular present,present participle
+331,Penguins can swim over large distances to reach fishing zones.,Penguins can swim over large distances to ... fishing zones.,reach,reach,reaches,reaching,reached,infinitive,3rd person singular present,present participle,past tense
+332,White bears were found drowned.,White bears ... drowned.,find,were found,find,finds,finded,past participle,infinitive,3rd person singular present,past tense
+333,White bears were found drowned.,White bears were found ....,drown,drowned,drowns,drowning,drown,past participle,3rd person singular present,present participle,infinitive
+334,The coyote seemed to be following a track.,The coyote ... to be following a track.,seem,seemed,seems,seemed,seeming,past tense,3rd person singular present,past tense,present participle
+335,The coyote seemed to be following a track.,The coyote seemed to be ... a track.,follow,following,followed,followed,following,present participle,past tense,past participle,present participle
+336,"Gynecologists deal with vagina problems, among others.","Gynecologists ... with vagina problems, among others.",deal,deal,deal,dealing,deals,non-3rd person singular present,infinitive,present participle,3rd person singular present
+337,She twisted her ankle when she fell in the stairs.,She ... her ankle when she fell in the stairs.,twist,twisted,twisting,twisted,twisted,past tense,present participle,past tense,past participle
+338,She twisted her ankle when she fell in the stairs.,She twisted her ankle when she ... in the stairs.,fall,fell,falling,falled,falled,past tense,present participle,past participle,past tense
+339,He has a permanent pain between the scapulas.,He ... a permanent pain between the scapulas.,have,has,haved,haved,haves,3rd person singular present,past tense,past participle,3rd person singular present
+340,Tears rolled on his cheeks.,Tears ... on his cheeks.,roll,rolled,roll,rolls,rolled,past tense,infinitive,3rd person singular present,past tense
+341,The doctor took a sample of his saliva.,The doctor ... a sample of his saliva.,take,took,take,taked,taking,past tense,infinitive,past participle,present participle
+342,He had only one testicle left after his motorcycle accident.,He ... only one testicle left after his motorcycle accident.,have,had,haved,haves,have,past tense,past participle,3rd person singular present,infinitive
+343,He had only one testicle left after his motorcycle accident.,He had only one testicle ... after his motorcycle accident.,leave,left,leaved,leave,leaved,past participle,past tense,infinitive,past participle
+344,Breast cancers are detected more and more precociously.,Breast cancers ... more and more precociously.,detect,are detected,detects,detected,detect,past participle,3rd person singular present,past participle,infinitive
+345,Some people have three nipples.,Some people ... three nipples.,have,have,haved,haved,haves,non-3rd person singular present,past participle,past tense,3rd person singular present
+346,He is trimming his nails.,He is ... his nails.,trim,trimming,trimming,trims,trimmed,present participle,present participle,3rd person singular present,past participle
+347,Spinal nerves are the nerves emerging from the spinal cord.,Spinal nerves are the nerves ... from the spinal cord.,emerge,emerging,emerge,emerged,emerged,present participle,infinitive,past tense,past participle
+348,Neurons are little renewed during adulthood.,Neurons are little ... during adulthood.,renew,renewed,renewed,renewed,renews,past participle,past tense,past participle,3rd person singular present
+349,He has a scar under the navel.,He ... a scar under the navel.,have,has,having,haved,have,3rd person singular present,present participle,past tense,infinitive
+350,She has a bruise on her forearm.,She ... a bruise on her forearm.,have,has,haves,haved,have,3rd person singular present,3rd person singular present,past participle,infinitive
+351,"Her immune system is depressed, she has little white blood cells.","Her immune system ..., she has little white blood cells.",depress,is depressed,depressed,depressing,depressed,past participle,past participle,present participle,past tense
+352,"Her immune system is depressed, she has little white blood cells.","Her immune system is depressed, she ... little white blood cells.",have,has,haved,haved,haves,3rd person singular present,past tense,past participle,3rd person singular present
+353,Red blood cells carry oxygen throughout the body.,Red blood cells ... oxygen throughout the body.,carry,carry,carries,carried,carry,non-3rd person singular present,3rd person singular present,past participle,infinitive
+354,The body develops antibodies againts parasites.,The body ... antibodies againts parasites.,develop,develops,developed,developing,developed,3rd person singular present,past participle,present participle,past tense
+355,He has got a problem with one of his heart valves.,He has ... a problem with one of his heart valves.,get,got,getting,getted,gets,past participle,present participle,past tense,3rd person singular present
+356,She had prominent cheekbones just like her sister.,She ... prominent cheekbones just like her sister.,have,had,having,haved,have,past tense,present participle,past participle,infinitive
+357,Her face did not show any emotion.,Her face did not ... any emotion.,show,show,shows,show,showing,infinitive,3rd person singular present,infinitive,present participle
+358,She clutched her fist to hide her pain.,She ... her fist to hide her pain.,clutch,clutched,clutching,clutched,clutched,past tense,present participle,past tense,past participle
+359,She clutched her fist to hide her pain.,She clutched her fist to ... her pain.,hide,hide,hides,hide,hided,infinitive,3rd person singular present,infinitive,past participle
+360,He broke his heel by falling in the stairs.,He ... his heel by falling in the stairs.,break,broke,break,breaks,breaking,past tense,infinitive,3rd person singular present,present participle
+361,He broke his heel by falling in the stairs.,He broke his heel by ... in the stairs.,fall,falling,falls,falling,fall,present participle,3rd person singular present,present participle,infinitive
+362,He has tensed up jaws.,He has ... up jaws.,tense,tensed,tense,tensed,tenses,past participle,infinitive,past tense,3rd person singular present
+363,He fractured his kneecap when he fell on his knee,He ... his kneecap when he fell on his knee,fracture,fractured,fracturing,fractured,fractures,past tense,present participle,past tense,3rd person singular present
+364,He fractured his kneecap when he fell on his knee,He fractured his kneecap when he ... on his knee,fall,fell,fall,falled,falling,past tense,infinitive,past tense,present participle
+365,He is feeling a stiffness in his neck.,He is ... a stiffness in his neck.,feel,feeling,feeling,feeled,feeled,present participle,present participle,past participle,past tense
+366,The pancreas produces juices essential for digestion.,The pancreas ... juices essential for digestion.,produce,produces,produced,produce,produced,3rd person singular present,past participle,infinitive,past tense
+367,We can see almost all his squeleton on the radios.,We can ... almost all his squeleton on the radios.,see,see,seeing,seed,see,infinitive,present participle,past tense,infinitive
+368,The spinal cord goes through the spine.,The spinal cord ... through the spine.,go,goes,gos,going,goed,3rd person singular present,3rd person singular present,present participle,past tense
+369,She broke one of her teeth.,She ... one of her teeth.,break,broke,breaks,breaked,break,past tense,3rd person singular present,past participle,infinitive
+370,He got a punch at the torso level.,He ... a punch at the torso level.,get,got,gets,getted,getted,past tense,3rd person singular present,past participle,past tense
+371,She has large hips,She ... large hips,have,has,haved,have,having,3rd person singular present,past participle,infinitive,present participle
+372,People wear the wedding band at the left annular.,People ... the wedding band at the left annular.,wear,wear,wear,weared,weared,non-3rd person singular present,infinitive,past tense,past participle
+373,People wear the wedding band at the left annular.,People wear the wedding band at the ... annular.,leave,left,leaved,leaves,leaving,past participle,past participle,3rd person singular present,present participle
+374,She pointed her index at him.,She ... her index at him.,point,pointed,pointed,pointing,point,past tense,past participle,present participle,infinitive
+375,She has fractured her medium finger.,She has ... her medium finger.,fracture,fractured,fracture,fractures,fractured,past participle,infinitive,3rd person singular present,past participle
+376,She has a slint at her little finger.,She ... a slint at her little finger.,have,has,haves,haved,having,3rd person singular present,3rd person singular present,past tense,present participle
+377,He has a scar at the pubis level.,He ... a scar at the pubis level.,have,has,haved,having,haved,3rd person singular present,past tense,present participle,past participle
+378,He had to do a radio of the pelvis.,He ... to do a radio of the pelvis.,have,had,haved,have,haves,past tense,past tense,infinitive,3rd person singular present
+379,He had to do a radio of the pelvis.,He had to ... a radio of the pelvis.,do,do,doed,doed,do,infinitive,past participle,past tense,infinitive
+380,He broke his clavicle at a rugby practice.,He ... his clavicle at a rugby practice.,break,broke,breaking,breaked,break,past tense,present participle,past participle,infinitive
+381,The ostrich burried its head into the sand.,The ostrich ... its head into the sand.,burry,burried,burried,burrying,burries,past tense,past tense,present participle,3rd person singular present
+382,One has to strech his legs after running.,One ... to strech his legs after running.,have,has,having,haved,haved,3rd person singular present,present participle,past tense,past participle
+383,One has to strech his legs after running.,One has to ... his legs after running.,strech,strech,strech,streches,streched,infinitive,infinitive,3rd person singular present,past participle
+384,One has to strech his legs after running.,One has to strech his legs after ....,run,running,runned,run,running,present participle,past tense,infinitive,present participle
+385,He broke his arm in a skiing accident.,He ... his arm in a skiing accident.,break,broke,breaked,breaking,breaked,past tense,past tense,present participle,past participle
+386,She is flexible enough to touch her feet with her hands.,She is flexible enough to ... her feet with her hands.,touch,touch,touched,touch,touching,infinitive,past tense,infinitive,present participle
+387,She dislocated her shoulder when she fell off her bike.,She ... her shoulder when she fell off her bike.,dislocate,dislocated,dislocating,dislocate,dislocates,past tense,present participle,infinitive,3rd person singular present
+388,She dislocated her shoulder when she fell off her bike.,She dislocated her shoulder when she ... off her bike.,fall,fell,falls,fall,falled,past tense,3rd person singular present,infinitive,past participle
+389,She sees a physiotherapist for her knee problems.,She ... a physiotherapist for her knee problems.,see,sees,sees,see,seed,3rd person singular present,3rd person singular present,infinitive,past participle
+390,He bumped his elbow on the door handle.,He ... his elbow on the door handle.,bump,bumped,bump,bumping,bumped,past tense,infinitive,present participle,past participle
+391,I have sprained my wrist when I fell.,I have ... my wrist when I fell.,sprain,sprained,sprained,sprain,sprained,past participle,past tense,infinitive,past participle
+392,I have sprained my wrist when I fell.,I have sprained my wrist when I ....,fall,fell,falled,falled,falls,past tense,past participle,past tense,3rd person singular present
+393,I cannot bend my finger anymore.,I cannot ... my finger anymore.,bend,bend,bended,bending,bend,infinitive,past participle,present participle,infinitive
+394,He was asked for his thumb fingerprint.,He ... for his thumb fingerprint.,ask,was asked,asking,asked,asks,past participle,present participle,past tense,3rd person singular present
+395,She had a nose job.,She ... a nose job.,have,had,haved,haves,have,past tense,past tense,3rd person singular present,infinitive
+396,Shut your mouth when you eat.,... your mouth when you eat.,Shut,Shut,Shutted,Shutted,Shuts,infinitive,past tense,past participle,3rd person singular present
+397,Shut your mouth when you eat.,Shut your mouth when you ....,eat,eat,eat,eating,eats,non-3rd person singular present,infinitive,present participle,3rd person singular present
+398,Do I have an eyelash in my eye?,Do I ... an eyelash in my eye?,have,have,haved,haved,haves,infinitive,past participle,past tense,3rd person singular present
+399,He opened his chin when he fell off his bike.,He ... his chin when he fell off his bike.,open,opened,open,opens,opened,past tense,infinitive,3rd person singular present,past tense
+400,He opened his chin when he fell off his bike.,He opened his chin when he ... off his bike.,fall,fell,falls,fall,falled,past tense,3rd person singular present,infinitive,past participle
+401,He has a pimple on the forehead.,He ... a pimple on the forehead.,have,has,having,haves,have,3rd person singular present,present participle,3rd person singular present,infinitive
+402,She has curly hair.,She ... curly hair.,have,has,haved,haves,haved,3rd person singular present,past tense,3rd person singular present,past participle
+403,"Your hairs have clogged the sink, you have to be more careful when you shave.","Your hairs have ... the sink, you have to be more careful when you shave.",clog,clogged,clogged,clog,clogs,past participle,past tense,infinitive,3rd person singular present
+404,"Your hairs have clogged the sink, you have to be more careful when you shave.","Your hairs ... clogged the sink, you ... to be more careful when you s....",have,have,having,haved,haves,non-3rd person singular present,present participle,past participle,3rd person singular present
+405,"Your hairs have clogged the sink, you have to be more careful when you shave.","Your hairs have clogged the sink, you have to be more careful when you ....",shave,shave,shaves,shaved,shaving,non-3rd person singular present,3rd person singular present,past participle,present participle
+406,She has a beauty spot on the left buttock.,She ... a beauty spot on the left buttock.,have,has,having,haved,have,3rd person singular present,present participle,past participle,infinitive
+407,He has a big bruise on his thigh.,He ... a big bruise on his thigh.,have,has,have,haved,having,3rd person singular present,infinitive,past tense,present participle
+408,She has cramp in her calf.,She ... cramp in her calf.,have,has,have,having,haves,3rd person singular present,infinitive,present participle,3rd person singular present
+409,She kicked him in the tibia.,She ... him in the tibia.,kick,kicked,kick,kicks,kicked,past tense,infinitive,3rd person singular present,past tense
+410,His abdomen had to be opened to make the operation possible.,His abdomen ... to be opened to make the operation possible.,have,had,haved,having,have,past tense,past participle,present participle,infinitive
+411,His abdomen had to be opened to make the operation possible.,His abdomen had to ... to make the operation possible.,open,be opened,opened,opened,opening,past participle,past participle,past tense,present participle
+412,His abdomen had to be opened to make the operation possible.,His abdomen had to be opened to ... the operation possible.,make,make,makes,maked,make,infinitive,3rd person singular present,past tense,infinitive
+413,His stomach pain went away quickly.,His stomach pain ... away quickly.,go,went,gos,goed,goed,past tense,3rd person singular present,past participle,past tense
+414,Your intestines can be upset when you eat spicy food.,Your intestines can be upset when you ... spicy food.,eat,eat,eat,eated,eating,non-3rd person singular present,infinitive,past participle,present participle
+415,He was given a liver transplant.,He ... a liver transplant.,give,was given,gives,gived,gived,past participle,3rd person singular present,past tense,past participle
+416,He had a sunburnt three weeks ago and now his skin is peeling.,He ... a sunburnt three weeks ago and now his skin is peeling.,have,had,haved,having,have,past tense,past tense,present participle,infinitive
+417,He had a sunburnt three weeks ago and now his skin is peeling.,He had a sunburnt three weeks ago and now his skin is ....,peel,peeling,peeling,peeled,peel,present participle,present participle,past tense,infinitive
+418,He was given a kidney transplant.,He ... a kidney transplant.,give,was given,gives,gived,give,past participle,3rd person singular present,past tense,infinitive
+419,Bacterias enter the bladder when you suffer from a urinary infection.,Bacterias ... the bladder when you suffer from a urinary infection.,enter,enter,entered,entering,enters,infinitive,past tense,present participle,3rd person singular present
+420,Bacterias enter the bladder when you suffer from a urinary infection.,Bacterias enter the bladder when you ... from a urinary infection.,suffer,suffer,suffers,suffer,suffered,non-3rd person singular present,3rd person singular present,infinitive,past tense
+421,You should pay more attention to your back if you do not want to end up with a cane.,You should ... more attention to your back if you do not want to end up with a cane.,pay,pay,pays,payed,payed,infinitive,3rd person singular present,past tense,past participle
+422,You should pay more attention to your back if you do not want to end up with a cane.,You should pay more attention to your back if you do not ... to end up with a cane.,want,want,want,wants,wanting,infinitive,infinitive,3rd person singular present,present participle
+423,You should pay more attention to your back if you do not want to end up with a cane.,You should pay more attention to your back if you do not want to ... up with a cane.,end,end,ended,end,ends,infinitive,past tense,infinitive,3rd person singular present
+424,Her belly has been hurting since this morning.,Her belly has been ... since this morning.,hurt,hurting,hurting,hurt,hurts,present participle,present participle,infinitive,3rd person singular present
+425,Bones contain large amounts of calcium.,Bones ... large amounts of calcium.,contain,contain,contained,containing,contained,non-3rd person singular present,past participle,present participle,past tense
+426,Fat mostly pile up during winter.,Fat mostly ... up during winter.,pile,pile,piles,pile,piling,non-3rd person singular present,3rd person singular present,infinitive,present participle
+427,He has thin but strong muscles.,He ... thin but strong muscles.,have,has,haved,have,haves,3rd person singular present,past participle,infinitive,3rd person singular present
+428,The way brain works is a highly researched subject.,The way brain works is a highly ... subject.,research,researched,researched,researches,researched,past participle,past tense,3rd person singular present,past participle
+429,He underwent an operation to change sex.,He ... an operation to change sex.,undergo,underwent,undergoed,undergoing,undergoed,past tense,past participle,present participle,past tense
+430,He underwent an operation to change sex.,He underwent an operation to ... sex.,change,change,changing,changed,changed,infinitive,present participle,past participle,past tense
+431,He gives his blood on a regular basis.,He ... his blood on a regular basis.,give,gives,gives,gived,gived,3rd person singular present,3rd person singular present,past participle,past tense
+432,He had had a lung radio.,He ... ... a lung radio.,have,had,have,having,haved,past participle,infinitive,present participle,past participle
+433,Heart beats can be heard thanks to a stethoscope.,Heart beats ... thanks to a stethoscope.,hear,can be heard,hears,heared,heared,past participle,3rd person singular present,past participle,past tense
+434,Arteries bring oxygened blood to organs.,Arteries ... oxygened blood to organs.,bring,bring,bringed,bringed,bringing,non-3rd person singular present,past participle,past tense,present participle
+435,Arteries bring oxygened blood to organs.,Arteries bring ... blood to organs.,oxygen,oxygened,oxygen,oxygened,oxygening,past participle,infinitive,past tense,present participle
+436,He gave her a kiss on the cheek.,He ... her a kiss on the cheek.,give,gave,gived,gived,gives,past tense,past participle,past tense,3rd person singular present
+437,He has been growing his beard for weeks.,He has been ... his beard for weeks.,grow,growing,grow,growed,growed,present participle,infinitive,past participle,past tense
+438,He is growing his mustache.,He is ... his mustache.,grow,growing,grows,grow,growed,present participle,3rd person singular present,infinitive,past tense
+439,She has very long eyelashes.,She ... very long eyelashes.,have,has,haved,haved,haves,3rd person singular present,past participle,past tense,3rd person singular present
+440,He raised eyebrows out of disdain.,He ... eyebrows out of disdain.,raise,raised,raising,raises,raise,past tense,present participle,3rd person singular present,infinitive
+441,The marketing strategy is to be rethinked.,The marketing strategy ... to be rethinked.,be,is,bing,bed,bes,3rd person singular present,present participle,past participle,3rd person singular present
+442,The marketing strategy is to be rethinked.,The marketing strategy is to ....,rethink,be rethinked,rethinked,rethinks,rethink,past participle,past participle,3rd person singular present,infinitive
+443,Sales are taking a nose dive this month.,Sales are ... a nose dive this month.,take,taking,take,taking,taked,present participle,infinitive,present participle,past participle
+444,Investments in Europe are plummeting.,Investments in Europe are ....,plummet,plummeting,plummeted,plummet,plummeting,present participle,past participle,infinitive,present participle
+445,The meeting was postponed by the new director.,The meeting ... by the new director.,postpone,was postponed,postponed,postpones,postponing,past participle,past tense,3rd person singular present,present participle
+446,We are looking for purchasers to buy the company.,We are ... for purchasers to buy the company.,look,looking,looked,looks,looking,present participle,past participle,3rd person singular present,present participle
+447,We are looking for purchasers to buy the company.,We are looking for purchasers to ... the company.,buy,buy,buyed,buying,buys,infinitive,past participle,present participle,3rd person singular present
+448,He got big discounts on this product.,He ... big discounts on this product.,get,got,getted,get,getting,past tense,past participle,infinitive,present participle
+449,Business was affected by economic sanctions.,Business ... by economic sanctions.,affect,was affected,affecting,affected,affects,past participle,present participle,past tense,3rd person singular present
+450,You cannot buy anything on retail in this company.,You cannot ... anything on retail in this company.,buy,buy,buys,buying,buyed,infinitive,3rd person singular present,present participle,past tense
+451,An agreement has been found between the two companies.,An agreement ... between the two companies.,find,has been found,finding,finds,finded,past participle,present participle,3rd person singular present,past participle
+452,Negociations have failed.,Negociations have ....,fail,failed,fail,fails,failed,past participle,infinitive,3rd person singular present,past tense
+453,We have to agree on a schedule as soon as possible.,We ... to agree on a schedule as soon as possible.,have,have,having,haved,haved,non-3rd person singular present,present participle,past tense,past participle
+454,We have to agree on a schedule as soon as possible.,We have to ... on a schedule as soon as possible.,agree,agree,agreeing,agreed,agreed,infinitive,present participle,past participle,past tense
+455,His absence has been noticed.,His absence ....,notice,has been noticed,noticed,notice,noticed,past participle,past participle,infinitive,past tense
+456,The presence of the CEO surprised the assembly.,The presence of the CEO ... the assembly.,surprise,surprised,surprised,surprised,surprise,past tense,past tense,past participle,infinitive
+457,The lecture will start within a few minutes.,The lecture will ... within a few minutes.,start,start,starting,started,started,infinitive,present participle,past tense,past participle
+458,The deadline has been postponed by one week.,The deadline ... by one week.,postpone,has been postponed,postponed,postponing,postpone,past participle,past tense,present participle,infinitive
+459,Our objective is to conquer the market in less than two year.,Our objective ... to conquer the market in less than two year.,be,is,bed,bing,be,3rd person singular present,past participle,present participle,infinitive
+460,Our objective is to conquer the market in less than two year.,Our objective is to ... the market in less than two year.,conquer,conquer,conquer,conquers,conquered,infinitive,infinitive,3rd person singular present,past tense
+461,We have two propositions for you.,We ... two propositions for you.,have,have,haves,haved,have,non-3rd person singular present,3rd person singular present,past participle,infinitive
+462,The shareholders approved this step unanimously.,The shareholders ... this step unanimously.,approve,approved,approve,approved,approving,past tense,infinitive,past participle,present participle
+463,Our company must invest more into advertising.,Our company must ... more into advertising.,invest,invest,invested,invests,investing,infinitive,past tense,3rd person singular present,present participle
+464,We are looking for a new advertising slogan.,We are ... for a new advertising slogan.,look,looking,looked,looked,looking,present participle,past participle,past tense,present participle
+465,Borrowing now would be suicidal.,... now would be suicidal.,Borrow,Borrowing,Borrowed,Borrows,Borrowing,present participle,past participle,3rd person singular present,present participle
+466,The debt crisis threatens European economy.,The debt crisis ... European economy.,threaten,threatens,threatened,threatening,threatened,3rd person singular present,past participle,present participle,past tense
+467,He bankrupted himself by speculating.,He ... himself by speculating.,bankrupt,bankrupted,bankrupt,bankrupting,bankrupts,past tense,infinitive,present participle,3rd person singular present
+468,He bankrupted himself by speculating.,He bankrupted himself by ....,speculate,speculating,speculate,speculating,speculates,present participle,infinitive,present participle,3rd person singular present
+469,He got a loan from his bank.,He ... a loan from his bank.,get,got,getting,getted,get,past tense,present participle,past tense,infinitive
+470,"The hearing went rather well, our lawyer had prepared the case.","The hearing ... rather well, our lawyer had prepared the case.",go,went,goed,goed,go,past tense,past tense,past participle,infinitive
+471,"The hearing went rather well, our lawyer had prepared the case.","The hearing went rather well, our lawyer had ... the case.",prepare,prepared,prepared,prepares,preparing,past participle,past tense,3rd person singular present,present participle
+472,Interns are often exploited.,Interns are often ....,exploit,exploited,exploits,exploiting,exploited,past participle,3rd person singular present,present participle,past tense
+473,The accountant filed a complaint for sexual harassment.,The accountant ... a complaint for sexual harassment.,file,filed,filed,files,file,past tense,past participle,3rd person singular present,infinitive
+474,The government does not manage to reduce inflation.,The government does not ... to reduce inflation.,manage,manage,managed,managing,manages,infinitive,past tense,present participle,3rd person singular present
+475,The government does not manage to reduce inflation.,The government does not manage to ... inflation.,reduce,reduce,reduce,reduced,reduces,infinitive,infinitive,past participle,3rd person singular present
+476,The central bank has reduced its rates.,The central bank has ... its rates.,reduce,reduced,reduced,reduces,reduce,past participle,past participle,3rd person singular present,infinitive
+477,"It is a one-way street, we cannot drive this way.","It is a one-way street, we cannot ... this way.",drive,drive,drives,driving,drive,infinitive,3rd person singular present,present participle,infinitive
+478,I lost myself in the alleys of Paris.,I ... myself in the alleys of Paris.,lose,lost,losing,loses,lose,past tense,present participle,3rd person singular present,infinitive
+479,The avenue is blocked by an accident.,The avenue ... by an accident.,block,is blocked,blocks,blocked,blocking,past participle,3rd person singular present,past participle,present participle
+480,You should turn at the next traffic light.,You should ... at the next traffic light.,turn,turn,turning,turn,turned,infinitive,present participle,infinitive,past tense
+481,The sidewalk is to be redone.,The sidewalk ... to be redone.,be,is,bes,bing,bed,3rd person singular present,3rd person singular present,present participle,past participle
+482,The sidewalk is to be redone.,The sidewalk is to ....,redo,be redone,redoed,redoed,redo,past participle,past tense,past participle,infinitive
+483,Use the pedestrian crossing rather than crossing the road.,... the pedestrian crossing rather than crossing the road.,Use,Use,Uses,Used,Used,infinitive,3rd person singular present,past participle,past tense
+484,Use the pedestrian crossing rather than crossing the road.,Use the pedestrian ... rather than ... the road.,cross,crossing,crosses,cross,crossing,present participle,3rd person singular present,infinitive,present participle
+485,"I am stuck in the traffic jam, I am going to be late.","I ... in the traffic jam, I am going to be late.",stick,am stuck,sticking,stick,sticked,past participle,present participle,infinitive,past participle
+486,"I am stuck in the traffic jam, I am going to be late.","I am stuck in the traffic jam, I am ... to be late.",go,going,going,goed,goed,present participle,present participle,past participle,past tense
+487,There is a lot of traffic at night.,There ... a lot of traffic at night.,be,is,be,bed,bed,3rd person singular present,infinitive,past tense,past participle
+488,The building might collapse.,The building might ....,collapse,collapse,collapsed,collapses,collapse,infinitive,past tense,3rd person singular present,infinitive
+489,The shop was closed because of the demonstrations.,The shop ... because of the demonstrations.,close,was closed,closes,closed,closing,past participle,3rd person singular present,past tense,present participle
+490,The sewers overflew once more.,The sewers ... once more.,overflew,overflew,overflewed,overflews,overflewed,non-3rd person singular present,past tense,3rd person singular present,past participle
+491,The bookstore is closed during holidays.,The bookstore ... during holidays.,close,is closed,closed,closed,close,past participle,past tense,past participle,infinitive
+492,He went to the butcher's shop.,He ... to the butcher's shop.,go,went,gos,goed,go,past tense,3rd person singular present,past participle,infinitive
+493,Do you know if there is a duty chemist in the neighborhood?,Do you ... if there is a duty chemist in the neighborhood?,know,know,knowed,know,knowed,infinitive,past tense,infinitive,past participle
+494,Do you know if there is a duty chemist in the neighborhood?,Do you know if there ... a duty chem...t in the neighborhood?,be,is,bes,bed,bing,3rd person singular present,3rd person singular present,past tense,present participle
+495,The bank went bankrupt recently.,The bank ... bankrupt recently.,go,went,goed,going,go,past tense,past participle,present participle,infinitive
+496,People can catch nosocomial infections in hospitals.,People can ... nosocomial infections in hospitals.,catch,catch,catch,catching,catched,infinitive,infinitive,present participle,past tense
+497,The grocery could not compete with the hypermarket.,The grocery could not ... with the hypermarket.,compete,compete,competed,competing,competed,infinitive,past participle,present participle,past tense
+498,"I am going to the market, I am coming back soon.","I am ... to the market, I am coming back soon.",go,going,going,goed,go,present participle,present participle,past participle,infinitive
+499,"I am going to the market, I am coming back soon.","I am going to the market, I am ... back soon.",come,coming,comed,coming,come,present participle,past participle,present participle,infinitive
