@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,r,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,visualstudiocode,r,python,jupyternotebooks
 
+# Stanza
+stanza_models
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
